@@ -38,6 +38,6 @@ Each entry of `Features` must be defined in `featuresExtractor.py` inside `extra
 ### Running
 
 Once the config file is configured properly,
-you can use the `main.ipnb` notebook to run rl-acc.
+you can use the `main.ipynb` notebook to run rl-acc.
 The notebook is self expanatory.
 If you have any questions, please contact me at gcgbarbosa@gmail.com
